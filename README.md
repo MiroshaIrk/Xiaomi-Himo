@@ -1,4 +1,4 @@
-### landing page [landing](https://miroshairk.github.io/landing-page/)
+### Website Xiaomi [жми сюда](https://miroshairk.github.io/landing-page/)
 - Лендинг попродаже электровелосипедов. 
-Верска, слайдер.
+Верска, адаптирован, слайдер.
 
