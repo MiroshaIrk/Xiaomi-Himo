@@ -1,2 +1,4 @@
 ### landing page [landing](https://miroshairk.github.io/landing-page/)
-- Лендинг 
+- Лендинг попродаже электровелосипедов. 
+Верска, слайдер.
+
